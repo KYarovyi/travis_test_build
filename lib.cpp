@@ -4,5 +4,5 @@
 
 int version()
 {
-    return 6 /*PROJECT_VERSION_PATCH*/;
+    return PROJECT_VERSION_PATCH;
 }
